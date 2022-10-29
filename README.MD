@@ -1,2 +1,2 @@
 # LeetCode Solutions Python 
-[LeetCodeLink](https://leetcode.com/)
+##[LeetCode](https://leetcode.com/)
